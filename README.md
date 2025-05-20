@@ -36,5 +36,6 @@ source my_venv/bin/activate (On Windows: my_venv\Scripts\activate)
 Launch the app from the terminal: 
 python main.py
 
-## Data Peristence 
+
+## Data Peristence 
 Contacts are stored in a contacts.json file, which is automatically loaded the next time the app is run.
